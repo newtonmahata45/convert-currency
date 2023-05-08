@@ -5,6 +5,7 @@ This is a simple React app that allows you to get exchange rates between two cur
 
 ## Getting Started
 Frontend Deployed at: [https://main--fascinating-conkies-717d85.netlify.app/](https://main--poetic-frangollo-afe9ca.netlify.app/)
+
 Backend Deployed  at: [https://convert-currency-mfntwec21-newtonmahata45.vercel.app/](https://convert-currency-mfntwec21-newtonmahata45.vercel.app/)
 ### Prerequisites
 
@@ -21,6 +22,7 @@ Backend Deployed  at: [https://convert-currency-mfntwec21-newtonmahata45.vercel.
 
 cd currency-exchange-app
 npm install
+
 3. Start the development server:
 npm start
 
@@ -48,7 +50,7 @@ This will display the exchange rate and the source of the rate in a table.
 
 4. Click the "Convert Amount" button to get the converted amount.
 
-This will display the converted amount, as well as the maximum and minimum values for the currency pair over the last 30 days.
+This will display the converted amount, as well as the maximum and minimum values for the currency pair from different resources.
 
 ## Built With
 
