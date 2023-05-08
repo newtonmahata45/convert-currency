@@ -4,7 +4,7 @@
 This is a simple React app that allows you to get exchange rates between two currencies and convert an amount from one currency to another.
 
 ## Getting Started
-Deploy at: https://main--fascinating-conkies-717d85.netlify.app/
+Deploy at: [https://main--fascinating-conkies-717d85.netlify.app/](https://main--poetic-frangollo-afe9ca.netlify.app/)
 
 ### Prerequisites
 
