@@ -4,8 +4,8 @@
 This is a simple React app that allows you to get exchange rates between two currencies and convert an amount from one currency to another.
 
 ## Getting Started
-Deploy at: [https://main--fascinating-conkies-717d85.netlify.app/](https://main--poetic-frangollo-afe9ca.netlify.app/)
-
+Frontend Deployed at: [https://main--fascinating-conkies-717d85.netlify.app/](https://main--poetic-frangollo-afe9ca.netlify.app/)
+Backend Deployed  at: [https://convert-currency-mfntwec21-newtonmahata45.vercel.app/](https://convert-currency-mfntwec21-newtonmahata45.vercel.app/)
 ### Prerequisites
 
 - Node.js 
@@ -15,7 +15,8 @@ Deploy at: [https://main--fascinating-conkies-717d85.netlify.app/](https://main-
 
 1. Clone the repository:
 
-  git clone https://github.com/newtonmahata45/convert-currency.git
+  git clone [https://github.com/newtonmahata45/convert-currency.git](https://github.com/newtonmahata45/convert-currency.git)
+
 2. Install dependencies:
 
 cd currency-exchange-app
@@ -23,7 +24,7 @@ npm install
 3. Start the development server:
 npm start
 
-This will start the development server at [http://localhost:3000](http://localhost:3000).
+This will start the development server at [https://convert-currency-mfntwec21-newtonmahata45.vercel.app/](https://convert-currency-mfntwec21-newtonmahata45.vercel.app/).
 
 ### Usage
 
@@ -52,4 +53,5 @@ This will display the converted amount, as well as the maximum and minimum value
 ## Built With
 
 - React
+- Express
 - Axios
