@@ -13,7 +13,7 @@ This is a simple React app that allows you to get exchange rates between two cur
 
 1. Clone the repository:
 
-  git clone https://github.com/your-username/currency-exchange-app.git
+  git clone https://github.com/newtonmahata45/convert-currency.git
 2. Install dependencies:
 
 cd currency-exchange-app
