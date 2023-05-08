@@ -4,11 +4,12 @@
 This is a simple React app that allows you to get exchange rates between two currencies and convert an amount from one currency to another.
 
 ## Getting Started
+Deploy at: https://main--fascinating-conkies-717d85.netlify.app/
 
 ### Prerequisites
 
-- Node.js (v12 or higher)
-- npm (v6 or higher) or yarn (v1 or higher)
+- Node.js 
+- npm
 
 ### Installing
 
