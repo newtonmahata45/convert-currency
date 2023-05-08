@@ -4,9 +4,9 @@
 This is a simple React app that allows you to get exchange rates between two currencies and convert an amount from one currency to another.
 
 ## Getting Started
-Frontend Deployed at: [https://main--fascinating-conkies-717d85.netlify.app/](https://main--poetic-frangollo-afe9ca.netlify.app/)
+Frontend Deployed at: [https://main--poetic-frangollo-afe9ca.netlify.app](https://main--poetic-frangollo-afe9ca.netlify.app/)
 
-Backend Deployed  at: [https://convert-currency-mfntwec21-newtonmahata45.vercel.app/](https://convert-currency-mfntwec21-newtonmahata45.vercel.app/)
+Backend Deployed  at: [https://convert-currency-dusky.vercel.app](https://convert-currency-dusky.vercel.app/)
 ### Prerequisites
 
 - Node.js 
