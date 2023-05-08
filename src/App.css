@@ -1,0 +1,103 @@
+#root {
+  max-width: 1280px;
+  margin: 0px ;
+  padding: 0px;
+  text-align: center;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+/* Styles for desktop and tablet screens */
+.formone, .formtwo {
+  display: inline-block;
+  width: 45%;
+  margin-right: 10px;
+}
+
+.formtwo {
+  margin-right: 0;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.amount-result {
+  margin-top: 30px;
+}
+
+.max, .min {
+  margin: 10px 0;
+}
+
+.table {
+  margin-top: 30px;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+}
+
+.thead {
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.exchange-rate, .source {
+  padding: 10px;
+  border: 1px solid #dee2e6;
+}
+
+/* Styles for mobile screens */
+@media screen and (max-width: 600px) {
+  .formone, .formtwo {
+    display: block;
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .formtwo {
+    margin-top: 10px;
+  }
+
+  .btn {
+    width: 100%;
+    margin-top: 10px;
+  }
+}
