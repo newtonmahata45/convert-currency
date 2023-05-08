@@ -10,7 +10,7 @@ function Currency() {
     const { from, to } = exchange;
     try {
       const res = await axios.get(
-        `https://convert-currency-mfntwec21-newtonmahata45.vercel.app/currency-exchange?from=${from}&to=${to}`
+        `https://convert-currency-newtonmahata45.vercel.app/currency-exchange?from=${from}&to=${to}`
         // `http://localhost:3001/currency-exchange?from=${from}&to=${to}`
       );
       console.log("resp=>", res.data);
@@ -25,7 +25,7 @@ function Currency() {
     e.preventDefault();
     const { from, to, amount } = convert;
     try {
-        const res = await axios.get(`https://convert-currency-mfntwec21-newtonmahata45.vercel.app/convert?from=${from}&to=${to}&amount=${amount}`)
+        const res = await axios.get(`https://convert-currency-newtonmahata45.vercel.app/convert?from=${from}&to=${to}&amount=${amount}`)
         console.log(res.data)
         setConvertResult(res.data)
     } catch (error) {
