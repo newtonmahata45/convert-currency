@@ -16,7 +16,7 @@ function Currency() {
       console.log("resp=>", res.data);
       setExchangeResult(res.data.result);
     } catch (err) {
-      // console.log("the error =>", err.response.data.message);
+      console.log("the error =>", err.response.data.message);
       setExchangeResult([])
       window.alert("Something is wrong");
     }
